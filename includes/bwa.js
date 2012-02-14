@@ -79,7 +79,8 @@ var oexBetterWolframAlfa = function()
 	
 	var domRemoved = new Array(
 	"headerad-pro-a",
-	"headerad-pro-b"
+	"headerad-pro-b",
+	"footerad"
 	);
 	
   function removeElementByID(id)
