@@ -72,7 +72,7 @@ var oexBetterWolframAlfa = function()
 	"#calculatecontain",
 	"#input",
 	"#calculate",
-	"fieldse",
+	"fieldset",
 	"#answers",
 	"#solutions"
 	);
